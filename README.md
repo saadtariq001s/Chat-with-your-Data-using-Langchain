@@ -10,3 +10,5 @@ https://ollama.com/library
 Then use Ollama-Langchain;
 
 https://python.langchain.com/v0.2/docs/integrations/llms/ollama/
+
+Still work in progress
